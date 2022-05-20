@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<p><a href="https://onlinegallery.art/en/%22%3E<img src="https://user-images.githubusercontent.com/104498301/169540799-a8b094d0-3252-4ce8-8bb5-a53ccf8fd916.png" alt="dog" width="100" height="180" align="top"/></a>
+<p><a href="https://onlinegallery.art/en/%22%3E"><img src="https://user-images.githubusercontent.com/104498301/169540799-a8b094d0-3252-4ce8-8bb5-a53ccf8fd916.png" alt="dog" width="100" height="180" align="top"/></a>
 <strong>Привіт!</strong> Я студент групи ПМ-2</p>
 
 <h3>Мої улюбленні предмети: </h3>
